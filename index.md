@@ -5,7 +5,9 @@ title: Trails into VR
 
 # Introduction
 
-This page contains a list of VRChat content based off of Falcom games.
+This page contains a list of VRChat content based off of Falcom games.  
+
+To make this page easier to access, you can add this webpage to bookmarks of the web browser on PC, Quest, or Android so you can navigate to it quickly later without needing to change or take off the device.  
 
 ## Links
 
