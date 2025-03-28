@@ -18,8 +18,6 @@ To make this page easier to access, you can add this webpage to bookmarks of the
 
 ### PMONickpop123
 
-Crossed out links are in the process of being re-uploaded.
-
 * [Trista](https://vrchat.com/home/launch?worldId=wrld_4ab2a3dc-3d08-4080-9cad-c7056d76b09a)  
 * [Hamel](https://vrchat.com/home/launch?worldId=wrld_4d6cee49-e0cf-4bfb-a8df-73282c7ac984)  
 * [Celdic](https://vrchat.com/home/launch?worldId=wrld_6bceb524-b868-45d1-b612-576c7454a4de)  
@@ -45,7 +43,7 @@ Crossed out links are in the process of being re-uploaded.
 * [Raquel](https://vrchat.com/home/launch?worldId=wrld_b5ee958f-4be3-496a-ba57-f9acbc0ff09d)  
 * [Crossbell City](https://vrchat.com/home/launch?worldId=wrld_2f5064a7-d377-48fa-a1b5-55bdd0bb0270)  
 * [Geofront](https://vrchat.com/home/launch?worldId=wrld_3c546333-00c3-4a08-8eec-e4f8d1f1e435)  
-* [~~Morimiya City~~](https://vrchat.com/home/launch?worldId=wrld_325fbd5f-65df-45a3-b974-68c22d6aadd0)  
+* [Morimiya City](https://vrchat.com/home/launch?worldId=wrld_5782bdbb-7182-41e9-a1d2-2292c2de637f)  
 * [Crossbell: Special Support Section](https://vrchat.com/home/launch?worldId=wrld_bef56c51-1308-497f-8d32-4ae3e0bce9fe)  
 
 * [Mishelam Wonderland](https://vrchat.com/home/launch?worldId=wrld_4903d1a9-43e0-4eb6-b199-fcef57388989)  
