@@ -45,6 +45,7 @@ To make this page easier to access, you can add this webpage to bookmarks of the
 * [Geofront](https://vrchat.com/home/launch?worldId=wrld_3c546333-00c3-4a08-8eec-e4f8d1f1e435)  
 * [Morimiya City](https://vrchat.com/home/launch?worldId=wrld_5782bdbb-7182-41e9-a1d2-2292c2de637f)  
 * [Crossbell: Special Support Section](https://vrchat.com/home/launch?worldId=wrld_bef56c51-1308-497f-8d32-4ae3e0bce9fe)  
+* [Mainz Mining Village](https://vrchat.com/home/launch?worldId=wrld_5f1b3d8d-6446-4615-ae98-f9019a283377)  
 
 * [Mishelam Wonderland](https://vrchat.com/home/launch?worldId=wrld_4903d1a9-43e0-4eb6-b199-fcef57388989)  
 * [Robot Room](https://vrchat.com/home/launch?worldId=wrld_00f54b9f-b4e3-4fa5-bb62-757865efb9c0)  
