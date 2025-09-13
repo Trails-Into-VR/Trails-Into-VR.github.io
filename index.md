@@ -47,6 +47,7 @@ To make this page easier to access, you can add this webpage to bookmarks of the
 * [Crossbell: Special Support Section](https://vrchat.com/home/launch?worldId=wrld_bef56c51-1308-497f-8d32-4ae3e0bce9fe)  
 * [Mainz Mining Village](https://vrchat.com/home/launch?worldId=wrld_5f1b3d8d-6446-4615-ae98-f9019a283377)  
 * [The Courageous II](https://vrchat.com/home/launch?worldId=wrld_a6ef1e7b-be58-4694-a531-5666dfa7ecb8)  
+* [Reverse Babel](https://vrchat.com/home/launch?worldId=wrld_5d2deb84-45fc-481d-b60d-8e44652fe9d7)  
 
 * [Mishelam Wonderland](https://vrchat.com/home/launch?worldId=wrld_4903d1a9-43e0-4eb6-b199-fcef57388989)  
 * [Robot Room](https://vrchat.com/home/launch?worldId=wrld_00f54b9f-b4e3-4fa5-bb62-757865efb9c0)  
