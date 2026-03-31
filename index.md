@@ -89,7 +89,16 @@ To make this page easier to access, you can add this webpage to bookmarks of the
 
 ## Downloads
 
-[Contact uyjulian](https://sites.google.com/site/awertyb/cm) for access to the file server containing the Unity project files protected behind Tailscale.  
+[Contact uyjulian](https://sites.google.com/site/awertyb/cm) regarding access to the Unity project files.  
+
+### Notes on usage
+
+* Register with Tailscale https://login.tailscale.com/start  
+* Provide the email used for registration so invites can be sent  
+* The link to download the project file from the secure file server will be sent  
+* Use 7-Zip to unpack the archive file https://www.7-zip.org/  
+* Open the project folder in ALCOM https://vrc-get.anatawa12.com/en/alcom/ or VCC  
+* To avoid confusion, it is requested such that the worlds not be published  
 
 [Go to the top of the page](#)  
 [Return to top page](..)  
