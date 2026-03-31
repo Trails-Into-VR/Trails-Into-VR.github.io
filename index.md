@@ -98,7 +98,7 @@ To make this page easier to access, you can add this webpage to bookmarks of the
 * The link to download the project file from the secure file server will be sent  
 * Use 7-Zip to unpack the archive file https://www.7-zip.org/  
 * Open the project folder in ALCOM https://vrc-get.anatawa12.com/en/alcom/ or VCC  
-* To avoid confusion, it is requested such that the worlds not be published  
+* To avoid confusion, it is requested such that the worlds not be published publically  
 
 [Go to the top of the page](#)  
 [Return to top page](..)  
